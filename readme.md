@@ -31,8 +31,9 @@ In *Model Training, Tuning & Benchmarking* phase, performance metrics centered a
 | ElasticNet-1     | ElasticNet       | 24 (reduction by OLS backward elimination) | 0.888179 | 25523.6        | 27976.2          | 9.61                 |
 | Production Model | ElasticNet       | 24                                         | 0.892675 | 25971.4        | 30168.1 (Kaggle) | 16.2                 |
 
-<sub>\* 101 features filtered from correlation score comparison with `SalePrice`, cutoff at score of 0.10 (see *Pre-processing & Feature Engineering* notebook)
-\** 40 features filtered from correlation score comparison with `SalePrice`, after engineering new features, and cutoff score of 0.20 (see *Pre-processing & Feature Engineering* notebook)</sub>
+<sub>\* 101 features filtered from correlation score comparison with `SalePrice`, cutoff at score of 0.10 (see *Pre-processing & Feature Engineering* notebook)</sub>
+  
+<sub>\*\* 40 features filtered from correlation score comparison with `SalePrice`, after engineering new features, and cutoff score of 0.20 (see *Pre-processing & Feature Engineering* notebook)</sub>
 
 ## Data Dictionary
 Based on `x_train_final.csv` feature dataset for selected production model.
