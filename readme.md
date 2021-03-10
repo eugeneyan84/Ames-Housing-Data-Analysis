@@ -1,4 +1,11 @@
 ﻿# Ames Housing Data Analysis
+ 
+Compiled reports can be viewed online here:
+
+[1 - Data Cleaning & Exploratory Data Analysis](https://nbviewer.jupyter.org/github/eugeneyan84/Ames-Housing-Data-Analysis/blob/main/code/01_Cleaning_and_EDA.ipynb)<br />
+[2 - Pre-processing & Feature Engineering](https://nbviewer.jupyter.org/github/eugeneyan84/Ames-Housing-Data-Analysis/blob/main/code/02_Preprocessing_and_Feature_Engineering.ipynb)<br />
+[3 - Model Training, Tuning & Benchmarking](https://nbviewer.jupyter.org/github/eugeneyan84/Ames-Housing-Data-Analysis/blob/main/code/03_Model_Training_and_Benchmarking.ipynb)
+
 
 ## Problem Statement
 This project aims to build a predictive model to forecast the sale price of properties in Ames, Iowa. A linear regression model would be constructed using feature data from the Ames Housing Dataset, which documents over 70 attributes of property sold in the abovementioned city between 2006 to 2010. 
